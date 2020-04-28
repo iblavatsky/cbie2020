@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Concurso de de Teses e Dissertações
+title: Concurso de Teses e Dissertações
 ---
 
 ## Apresentação
