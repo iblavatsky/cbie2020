@@ -5,7 +5,7 @@ meta_description: "CBIE - Congresso Brasileiro dee Informática na Educação"
 logo: 'assets/images/cbie-logo-gif-site.gif'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: /2020
+baseurl: /cbie2020
 destination: ./2020
 email: 'cbie2020@imd.ufrn.br'
 # google_analytics: 'UA-46278016-1'
