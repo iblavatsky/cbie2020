@@ -1,0 +1,30 @@
+# Site
+name: CBIE 2020
+description: Congresso Brasileiro dee Informática na Educação
+meta_description: "CBIE - Congresso Brasileiro dee Informática na Educação"
+logo: 'assets/images/cbie-logo-gif-site.gif'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: /2020
+destination: ./2020
+email: 'cbie2020@imd.ufrn.br'
+# google_analytics: 'UA-46278016-1'
+# disqus: 'demowebsite'
+# sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
