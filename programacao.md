@@ -17,8 +17,8 @@ As programações detalhadas por evento serão inseridas em breve.
     <thead>
         <tr class="bg-info">
             <th></th>
-            <th colspan=2>13 de novembro</th>
-            <th colspan=2>14 de novembro</th>
+            <th colspan="2">13 de novembro</th>
+            <th colspan="2">14 de novembro</th>
         </tr>
         <tr class="bg-info">
             <th>Horário</th>
