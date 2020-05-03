@@ -15,8 +15,7 @@ A avaliação será conduzida em três fases.
 * **FASE 2** – Na segunda fase será realizada uma avaliação sobre o texto completo de cada trabalho aceito na fase anterior, também por, pelo menos, três especialistas. O resultado dessa avaliação será divulgado junto à notificação de aceite e, dará aos participantes a informação de quais finalistas receberão menção honrosa (ocupando quarto, quinto e sexto lugares) e quais seguirão para a Fase 3 (e que ocuparão primeiro, segundo e terceiro lugares) em cada categoria.
 * **FASE 3** – Na terceira fase, três especialistas farão a avaliação dos vídeos de apresentação dos trabalhos enviados pelos finalistas para a definição do primeiro, segundo e terceiro lugares de cada categoria. As instruções para a elaboração do vídeo de apresentação seguirão as mesmas para participantes-autores do CBIE, considerando que a duração do vídeo deve estar entre 15 e 20 minutos. Para a avaliação desta fase, será levado em consideração os aspectos visuais da apresentação oral feita pelo autor, bem como sua desenvoltura e criatividade. Para o caso de TCC em grupo, a apresentação poderá ser feita por apenas um dos integrantes. O não envio do vídeo de apresentação do trabalho na terceira fase implica em exclusão do processo. A comissão se reserva o direito de indicar apenas os trabalhos que ela considerar adequados a concorrerem à premiação, estando inclusive prevista a possibilidade de não haver trabalhos indicados para premiação em uma ou mais categorias. Ao final, a comissão organizadora do CTD-IE, coordenará internamente a consolidação dos resultados e eventual discussão envolvendo os integrantes do Comitê de Programa para determinação da classificação dos trabalhos premiados em cada categoria.
 
-**O anúncio dos trabalhos a serem premiados com o primeiro, segundo e terceiro lugares em cada categoria será feito no evento de abertura do CBIE 2020**.
-
+** O anúncio dos trabalhos a serem premiados com o primeiro, segundo e terceiro lugares em cada categoria será feito no evento de encerramento do CBIE2020**
 ## Certificados de Premiação
 
 Os trabalhos premiados entre os finalistas receberão certificados de “Prêmio” no qual constará explicitamente a posição atingida e a categoria. Aos demais trabalhos finalistas, caberão certificados de “Menção Honrosa” nos quais constará apenas a categoria.
@@ -87,9 +86,8 @@ Os artigos originais devem conter:
         </tr>
         <tr>
             <th rowspan="2">Fase 3</th>
-            <td>Divulgação do resultado final do concurso</td>
-            <td>Evento de abertura do CBIE 2020</td>
-        </tr>
+             <td>Divulgação do resultado final do concurso</td>
+             <td> Evento de encerramento do CBIE2020 </td>
         <tr>
             <td>Entrega da premiação</td>
             <td>A definir</td>
